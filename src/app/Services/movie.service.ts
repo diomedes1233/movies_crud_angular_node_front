@@ -6,7 +6,7 @@ import { HttpClient} from '@angular/common/http';
 })
 export class MovieService {
 
-  url='/api';
+  url='https://movie-crud-mean-api.herokuapp.com/api';
   constructor(private http: HttpClient) { }
 
 

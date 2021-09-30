@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit} from '@angular/core';
 import {MovieService, Movie} from '../../Services/movie.service';
 import { Router} from '@angular/router';
 
