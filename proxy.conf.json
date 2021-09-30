@@ -1,7 +1,7 @@
 {
     "/api/*": {
 
-    "target": "https://movie-crud-mean-api.herokuapp.com/api/",
+    "target": "https://movie-crud-mean-api.herokuapp.com",
     "secure": "false",
     "logLevel": "debug",
     "changeOrigin": true
